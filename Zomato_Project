@@ -12,3 +12,7 @@ Description:
 A project done in Tableau that analyzes Zomato's core customer demographics and how that impacts their sales. 
 	• Created 6 graphs based on various demographics (e.g. gender, education, age) and 3 graphs based on sales performance over time. 
 	• Developed a 5 slide story outlined Zomato's current demographic situation and a potential solution to declining sales based on information from 2 dashboards. 
+
+Zomato's main customer demographics are young unmarried students with no income. Sales dropping since 2018 is a major problem. However,
+uneducated housewives showed the least descline in sales over. We recommend a new strategy that targets the housewife demographic in
+light of declining sales from their core demographic. 
