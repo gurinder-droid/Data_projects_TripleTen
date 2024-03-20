@@ -1,0 +1,7 @@
+Name: Spreadsheet Final Project 
+LinK: https://docs.google.com/spreadsheets/d/1EFBuySIido7Uxzn_3OD-Q-42aCk4erdCv0fQuzb_Hac/edit?usp=sharing
+Description: 
+A project done in Google Sheets to determine which types of properties an investor interested in the vacation rental market in Manhattan should invest in. 
+	• Processed raw listing data to transform it to only include correctly formatted and relevant data for analysis
+	• Built 5 pivot tables which analyzed top neighborhoods, popular number of bedrooms, Occupancy rate(individual and by day), and average potential revenue for use in analysis 
+	• Communicated  findings in an executive summary page that highlighted the most important insights and included a final recommendation 
