@@ -1,3 +1,4 @@
+Name: Zomato Project
 Dashboard Link: 
 https://public.tableau.com/views/ZomatoFinalProjectUpdated/FinalDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
@@ -6,3 +7,8 @@ https://drive.google.com/file/d/1ZTzowu9oahYrFZnwOeGpslp9BqAPbuk1/view?usp=shari
 
 Report Presentation Link:
 https://docs.google.com/presentation/d/15z-hRIRF2CXDJFhX0WzyTwcqHkZnMD4kXyhfHiStYQ8/edit?usp=sharing
+
+Description:
+A project done in Tableau that analyzes Zomato's core customer demographics and how that impacts their sales. 
+	• Created 6 graphs based on various demographics (e.g. gender, education, age) and 3 graphs based on sales performance over time. 
+	• Developed a 5 slide story outlined Zomato's current demographic situation and a potential solution to declining sales based on information from 2 dashboards. 
