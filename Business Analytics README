@@ -1,0 +1,7 @@
+Name: E-Commerce Analytics 
+Link: https://docs.google.com/spreadsheets/d/1Wcn0nfto__4ieXHi7NGcOmLzBQQftdZt0pdnOaHWq6M/edit?usp=sharing
+Description: 
+A project done in Google Sheets to analyze sales data from an online site that sells electronics and offer an executive summary of its results. 
+	• Created a conversion funnel by applying my knowledge of pivot tables to find the level of conversions between each stage of the sale process 
+	• Preprocessed data using filters, pivot tables, and vlookup functions to prepare it for analysis 
+	• Calculated customer retention rates and communicated results using an executive summary sheet that contained an quick synopsis and a more in-depth description of the analysis
